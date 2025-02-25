@@ -54,6 +54,7 @@ Avec ses fonctionnalités avancées, telles que **la gestion des produits par ca
 <img src="images/Cnx_Enrg.png" width="150"> | <img src="images/Connexion.png" width="150"> | <img src="images/Enregistrement.png" width="150">
 
 ### 🏠 Écran d'Accueil  
+
 | Accueil 1 | Accueil 2 | Accueil 3 |
 |---------|------------------|------------------|
 | <img src="images/Home.png" width="150"> | <img src="images/Home3.png" width="150"> | <img src="images/Home4.png" width="150"> |
@@ -65,11 +66,13 @@ Avec ses fonctionnalités avancées, telles que **la gestion des produits par ca
 <img src="images/Produits.png" width="150"> | <img src="images/Produits2.png" width="150"> | <img src="images/Produits3.png" width="150">
 
 ### 📌 Barre De Navigation  
+
 | Navigation | Interface profile | Interface Catégories |
 |---------|------------------|------------------|
 | <img src="images/navigation.png" width="150"> | <img src="images/Interface_profile.png" width="150"> | <img src="images/Interface_Catégories.png" width="150"> |
 
 ### 📋 Gestion des Listes  
+
 | Mon Chariot | Mes Commandes | Nouveaux Produits |
 |------------------|--------------------|------------------|
 | <img src="images/Mes_Chariots1.png" width="150"> | <img src="images/Mes_Commandes.png" width="150"> | <img src="images/Nouveaux_Produits.png" width="150"> |
