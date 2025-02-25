@@ -64,7 +64,7 @@ Avec ses fonctionnalités avancées, telles que **la gestion des produits par ca
 |---------|----------------------|----------------------|
 <img src="images/Produits.png" width="150"> | <img src="images/Produits2.png" width="150"> | <img src="images/Produits3.png" width="150">
 
-### 🏠 Bare De Navigation  
+### 📌 Barre De Navigation  
 | Navigation | Interface profile | Interface Catégories |
 |---------|------------------|------------------|
 | <img src="images/navigation.png" width="150"> | <img src="images/Interface_profile.png" width="150"> | <img src="images/Interface_Catégories.png" width="150"> |
