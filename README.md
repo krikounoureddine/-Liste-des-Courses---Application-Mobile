@@ -47,15 +47,32 @@ Avec ses fonctionnalités avancées, telles que **la gestion des produits par ca
 
 ## 📲 Captures d'Écran  
 
+### 🔑 connexion et enregistrement
+
+| In1 | In2 | in3 |
+|---------|----------------------|----------------------|
+<img src="images/Cnx_Enrg.png" width="150"> | <img src="images/Connexion.png" width="150"> | <img src="images/Enregistrement.png" width="150">
+
 ### 🏠 Écran d'Accueil  
-| Accueil | Création de liste | Ajout d'article |
+| Accueil 1 | Accueil 2 | Accueil 3 |
 |---------|------------------|------------------|
-| <img src="images/home.png" width="150"> | <img src="images/create_list.png" width="150"> | <img src="images/add_item.png" width="150"> |
+| <img src="images/Home.png" width="150"> | <img src="images/Home3.png" width="150"> | <img src="images/Home4.png" width="150"> |
+
+### 📖 Les Produits
+
+| In1 | In2 | In3 |
+|---------|----------------------|----------------------|
+<img src="images/Produits.png" width="150"> | <img src="images/Produits2.png" width="150"> | <img src="images/Produits3.png" width="150">
+
+### 🏠 Bare De Navigation  
+| Navigation | Interface profile | Interface Catégories |
+|---------|------------------|------------------|
+| <img src="images/navigation.png" width="150"> | <img src="images/Interface_profile.png" width="150"> | <img src="images/Interface_Catégories.png" width="150"> |
 
 ### 📋 Gestion des Listes  
-| Liste des Courses | Détails de la Liste | Partage de Liste |
+| Mon Chariot | Mes Commandes | Nouveaux Produits |
 |------------------|--------------------|------------------|
-| <img src="images/list_overview.png" width="150"> | <img src="images/list_details.png" width="150"> | <img src="images/share_list.png" width="150"> |
+| <img src="images/Mes_Chariots1.png" width="150"> | <img src="images/Mes_Commandes.png" width="150"> | <img src="images/Nouveaux_Produits.png" width="150"> |
 
 
 ---
